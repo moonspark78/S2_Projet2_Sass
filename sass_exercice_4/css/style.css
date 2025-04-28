@@ -99,6 +99,14 @@ body {
   box-shadow: 0 0 8px rgba(52, 152, 219, 0.5);
 }
 
+.footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+  margin-top: 40px;
+}
+
 .content {
   text-align: center;
   padding: 40px 20px;
@@ -131,14 +139,6 @@ body {
 .card .card-content {
   font-size: 16px;
   color: #555;
-}
-
-.footer {
-  background-color: #222;
-  color: white;
-  text-align: center;
-  padding: 15px 0;
-  margin-top: 40px;
 }
 
 /*# sourceMappingURL=style.css.map */

@@ -1,0 +1,23 @@
+// Bouton
+.button {
+    background-color: white;
+    color: #3498db;
+    border: 2px solid white;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+  
+    &:hover {
+      background-color: #217dbb;
+      color: white;
+      border-color: #217dbb;
+    }
+  
+    &:focus {
+      outline: none;
+      box-shadow: 0 0 8px rgba(52, 152, 219, 0.5);
+    }
+  }
